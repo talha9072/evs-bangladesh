@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "evs-bangladesh",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": [
+        "next",
+        "dev",
+        "--webpack",
+        "-p",
+        "3040"
+      ],
+      "port": 3040
+    }
+  ]
+}

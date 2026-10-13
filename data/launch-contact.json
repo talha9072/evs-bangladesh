@@ -1,0 +1,142 @@
+{
+  "_comment": "Copy and FAQs for /contact. No phone and no address by design, so the page job is to answer what somebody would otherwise ring to ask. Rewritten for Bangladesh: the questions here are about home charging, flats without parking, and monsoon water — not the questions Iraq or Bahrain get.",
+  "en": {
+    "eyebrow": "Opening soon",
+    "heading": "EVS is coming to Dhaka.",
+    "lead": "We build specialist electric-vehicle workshops — high-voltage diagnostics, battery health, software and bodywork — and Dhaka is next.",
+    "body": "The centre is not open yet, so there is no number to call and no address to visit. We would rather say that plainly than publish a placeholder. Leave your details and we will email you once, on the day we open.",
+    "formTitle": "Tell us when to reach you",
+    "name": "Your name",
+    "email": "Email address",
+    "car": "What do you drive?",
+    "carHint": "e.g. BYD Atto 3, Toyota Aqua hybrid, Tesla Model 3",
+    "topic": "What is this about?",
+    "topics": [
+      "Tell me when you open",
+      "A question about my car",
+      "Charging at home",
+      "Franchise enquiry",
+      "Something else"
+    ],
+    "message": "Anything you want us to know",
+    "submit": "Send",
+    "sending": "Sending",
+    "errorTitle": "That did not send.",
+    "errorBody": "Something between your browser and us dropped the message, and we would rather tell you than pretend. Nothing you typed is lost — try the button again, or email us directly and it reaches the same people.",
+    "note": "We will only use this to reply. No newsletter, no list, nobody else.",
+    "asideTitle": "What happens next",
+    "steps": [
+      {
+        "title": "One email, on opening day",
+        "body": "Not a newsletter. We write once, when the Dhaka centre actually opens its doors."
+      },
+      {
+        "title": "A question gets a real answer",
+        "body": "If you ask something specific about your car, a technician replies — not a template."
+      },
+      {
+        "title": "Nothing is shared",
+        "body": "Your details stay with EVS. We do not sell, rent or pass them to anyone."
+      }
+    ],
+    "directTitle": "Prefer email?",
+    "directBody": "You can write to the EVS group mailbox directly and it will reach the same people.",
+    "faqTitle": "Questions people ask first",
+    "faqs": [
+      {
+        "q": "When does EVS Bangladesh open?",
+        "a": "We have not announced a date. The Dhaka centre is in preparation, and the honest answer is that we would rather tell you the day it happens than publish a date we might miss. Leave your email on this page and you will be told first."
+      },
+      {
+        "q": "Where in Bangladesh will the centre be?",
+        "a": "Dhaka. The location within the city is not confirmed publicly yet. Effectively every registered electric car in the country is in and around Dhaka, which is why it is first. Chattogram is roughly 250 km away and Sylhet about 240 — separate markets that would each need their own site."
+      },
+      {
+        "q": "Can I book a service now?",
+        "a": "Not yet. There is no workshop to bring a car to, and we will not take a booking we cannot honour. What you can do is register on this page, and we will contact you as soon as the bay is open."
+      },
+      {
+        "q": "Can you help me set up charging at home?",
+        "a": "That will be one of the first things we do, and it is where most of the risk sits in Dhaka. The questions are what the supply is rated for, whether a circuit can reach where the car parks, and whether the earth is sound. We would rather look at that before a charger is bought than after one has been installed badly."
+      },
+      {
+        "q": "My car stood in flood water. Is it a write-off?",
+        "a": "Usually not, and a sealed high-voltage pack will often survive water that would stop a petrol engine. The damage tends to arrive later, as corrosion on connectors, the low-voltage harness and the charge port, showing up as intermittent faults. If the car has stood in water it is worth an inspection even when it drives away fine."
+      },
+      {
+        "q": "I want to run an EVS centre in Bangladesh. Who do I talk to?",
+        "a": "Franchise applications are handled by EVS Worldwide rather than by a country site, because the territory review, the NDA and the qualifying all sit there. Our franchise page explains the Bangladesh case and links straight through to the application."
+      }
+    ]
+  },
+  "_bengali_review": "⚠️ The Bengali has had no native reviewer.",
+  "bn": {
+    "eyebrow": "শীঘ্রই খুলছে",
+    "heading": "ইভিএস আসছে ঢাকায়।",
+    "lead": "আমরা ইলেকট্রিক গাড়ির বিশেষায়িত ওয়ার্কশপ গড়ি — উচ্চ-ভোল্টেজ ডায়াগনস্টিকস, ব্যাটারির স্বাস্থ্য, সফটওয়্যার আর বডি ও পেইন্ট — আর এবার ঢাকা।",
+    "body": "কেন্দ্রটি এখনো খোলেনি, তাই ফোন করার মতো নম্বর নেই, যাওয়ার মতো ঠিকানাও নেই। মনগড়া কিছু দেওয়ার চেয়ে এটা স্পষ্ট বলাই ভালো মনে করি। আপনার তথ্য রেখে যান — খোলার দিন একবার ইমেইল করব।",
+    "formTitle": "কখন যোগাযোগ করব জানান",
+    "name": "আপনার নাম",
+    "email": "ইমেইল ঠিকানা",
+    "car": "আপনি কোন গাড়ি চালান?",
+    "carHint": "যেমন: বিওয়াইডি আটো ৩, টয়োটা অ্যাকোয়া হাইব্রিড, টেসলা মডেল ৩",
+    "topic": "বিষয় কী?",
+    "topics": [
+      "খুললে আমাকে জানান",
+      "আমার গাড়ি নিয়ে প্রশ্ন",
+      "বাড়িতে চার্জিং",
+      "ফ্র্যাঞ্চাইজ জিজ্ঞাসা",
+      "অন্য কিছু"
+    ],
+    "message": "আমাদের যা জানাতে চান",
+    "submit": "পাঠান",
+    "sending": "পাঠানো হচ্ছে",
+    "errorTitle": "বার্তাটি যায়নি।",
+    "errorBody": "আপনার ব্রাউজার আর আমাদের মাঝে কোথাও বার্তাটি হারিয়ে গেছে, আর ভান করার চেয়ে আপনাকে জানানোই ভালো। আপনি যা লিখেছেন তা হারায়নি — আবার বোতামে চাপ দিন, অথবা সরাসরি ইমেইল করুন, সেটা একই মানুষের কাছে পৌঁছায়।",
+    "note": "এই তথ্য কেবল উত্তর দিতেই ব্যবহার করব। কোনো নিউজলেটার নেই, তালিকা নেই, অন্য কাউকে দেওয়া নেই।",
+    "asideTitle": "এরপর কী হবে",
+    "steps": [
+      {
+        "title": "একটিই ইমেইল, খোলার দিন",
+        "body": "নিউজলেটার নয়। ঢাকা কেন্দ্র সত্যিই দরজা খোলার দিন আমরা একবারই লিখব।"
+      },
+      {
+        "title": "প্রশ্নের সত্যিকারের উত্তর",
+        "body": "আপনার গাড়ি নিয়ে নির্দিষ্ট কিছু জিজ্ঞেস করলে একজন টেকনিশিয়ান উত্তর দেবেন — বাঁধা ছকের বার্তা নয়।"
+      },
+      {
+        "title": "কিছুই শেয়ার করা হয় না",
+        "body": "আপনার তথ্য ইভিএস-এর কাছেই থাকে। আমরা তা বিক্রি করি না, ভাড়া দিই না, কাউকে দিইও না।"
+      }
+    ],
+    "directTitle": "ইমেইল বেশি সুবিধাজনক?",
+    "directBody": "আপনি সরাসরি ইভিএস গ্রুপের মেইলবক্সে লিখতে পারেন, সেটা একই মানুষের কাছে পৌঁছাবে।",
+    "faqTitle": "যে প্রশ্নগুলো মানুষ আগে করে",
+    "faqs": [
+      {
+        "q": "ইভিএস বাংলাদেশ কবে খুলছে?",
+        "a": "আমরা কোনো তারিখ ঘোষণা করিনি। ঢাকা কেন্দ্রটি প্রস্তুতির পর্যায়ে, আর সৎ উত্তর হলো — এমন তারিখ প্রকাশ করার চেয়ে যেদিন সত্যিই ঘটবে সেদিন জানানোই ভালো। এই পাতায় ইমেইল রেখে যান, আপনিই প্রথম জানবেন।"
+      },
+      {
+        "q": "কেন্দ্রটি বাংলাদেশের কোথায় হবে?",
+        "a": "ঢাকায়। শহরের ভেতরে ঠিক কোথায়, তা এখনো প্রকাশ করা হয়নি। দেশের কার্যত সব নিবন্ধিত ইলেকট্রিক গাড়িই ঢাকা ও তার আশপাশে, তাই প্রথমে ঢাকা। চট্টগ্রাম প্রায় ২৫০ কিলোমিটার আর সিলেট প্রায় ২৪০ কিলোমিটার দূরে — আলাদা বাজার, প্রতিটির জন্য আলাদা কেন্দ্র লাগবে।"
+      },
+      {
+        "q": "এখনই কি সার্ভিস বুক করা যায়?",
+        "a": "এখনো না। গাড়ি নিয়ে আসার মতো কোনো ওয়ার্কশপ নেই, আর যে বুকিং রাখতে পারব না তা নেবও না। আপনি যা করতে পারেন তা হলো এই পাতায় নিবন্ধন — কেন্দ্র প্রস্তুত হওয়ামাত্র যোগাযোগ করব।"
+      },
+      {
+        "q": "বাড়িতে চার্জিং বসাতে সাহায্য করবেন?",
+        "a": "এটা আমাদের প্রথম কাজগুলোর একটি হবে, আর ঢাকায় ঝুঁকির বড় অংশ এখানেই। প্রশ্ন হলো সংযোগের ক্ষমতা কত, গাড়ি যেখানে থাকে সেখানে সার্কিট পৌঁছাবে কি না, আর আর্থিং ঠিক আছে কি না। খারাপভাবে চার্জার বসানোর পরে দেখার চেয়ে কেনার আগেই দেখে নেওয়া ভালো।"
+      },
+      {
+        "q": "আমার গাড়ি বন্যার পানিতে দাঁড়িয়ে ছিল। এটা কি আর চলবে না?",
+        "a": "সাধারণত চলবে, আর সিল করা উচ্চ-ভোল্টেজ ব্যাটারি এমন পানি প্রায়ই সয়ে যায় যা পেট্রোল ইঞ্জিন বন্ধ করে দেয়। ক্ষতিটা আসে পরে — কানেক্টর, নিম্ন-ভোল্টেজ তার আর চার্জ পোর্টে ক্ষয় হিসেবে, যা মাঝেমধ্যে দেখা দেওয়া সমস্যা হয়ে ফিরে আসে। গাড়ি পানিতে দাঁড়িয়ে থাকলে ঠিকঠাক চললেও একবার দেখিয়ে নেওয়া উচিত।"
+      },
+      {
+        "q": "আমি বাংলাদেশে ইভিএস কেন্দ্র চালাতে চাই। কার সঙ্গে কথা বলব?",
+        "a": "ফ্র্যাঞ্চাইজের আবেদন দেখে ইভিএস ওয়ার্ল্ডওয়াইড, কোনো দেশভিত্তিক সাইট নয় — কারণ এলাকা পর্যালোচনা, গোপনীয়তার চুক্তি আর যোগ্যতা যাচাই সবই সেখানে হয়। আমাদের ফ্র্যাঞ্চাইজ পাতায় বাংলাদেশের অবস্থা ব্যাখ্যা করা আছে আর সরাসরি আবেদনের লিংক দেওয়া আছে।"
+      }
+    ]
+  }
+}

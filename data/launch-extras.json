@@ -1,0 +1,156 @@
+{
+  "_comment": "Two extra sections per inner page: the fault patterns a workshop expects to see, and what a visit will look like. Rewritten for Bangladesh — the fault list leads with water and the domestic supply, which is the Bangladeshi failure mode and does not exist in the Gulf or Iraq builds.",
+  "faults": {
+    "brand": {
+      "en": {
+        "eyebrow": "What we see",
+        "heading": "The faults we expect to see here",
+        "intro": "Four patterns account for most of the work on electrified cars in a city like this one, and EVS workshops elsewhere see versions of all four. None is exotic, and the first two are specific to Dhaka.",
+        "items": [
+          {
+            "title": "Intermittent faults after a wet season",
+            "body": "Corrosion on connectors, the low-voltage harness or the charge port. It arrives months after the water does and shows up as something nobody can reproduce on demand."
+          },
+          {
+            "title": "Charging has got slower, or stops",
+            "body": "Often the supply rather than the car — an undersized circuit, a poor earth, or a charger fitted by someone who had not seen one before."
+          },
+          {
+            "title": "The car is completely dead",
+            "body": "No lights, no screens, no door unlock. Almost always the 12-volt battery rather than the main pack, and in this heat it rarely reaches its rated life."
+          },
+          {
+            "title": "Warnings on an imported car",
+            "body": "Often the software region rather than a fault: a car coded for another market reporting things that are true there and not here."
+          }
+        ]
+      },
+      "bn": {
+        "heading": "এখানে যে সমস্যাগুলো আমরা দেখব বলে আশা করছি",
+        "intro": "এমন একটা শহরে ইলেকট্রিক গাড়ির বেশির ভাগ কাজ চারটি ধরনের মধ্যেই পড়ে, আর ইভিএস-এর অন্য ওয়ার্কশপগুলোও এই চারটিরই নানা রূপ দেখে। কোনোটিই জটিল কিছু নয়, আর প্রথম দুটি ঢাকার নিজস্ব।",
+        "items": [
+          {
+            "title": "ভেজা মৌসুমের পরে মাঝেমধ্যে দেখা দেওয়া সমস্যা",
+            "body": "কানেক্টর, নিম্ন-ভোল্টেজ তার বা চার্জ পোর্টে ক্ষয়। পানি আসার মাসখানেক পরে এটা আসে, আর এমনভাবে দেখা দেয় যা কেউ চাইলেই আবার ঘটিয়ে দেখাতে পারে না।"
+          },
+          {
+            "title": "চার্জিং ধীর হয়ে গেছে, বা থেমে যাচ্ছে",
+            "body": "প্রায়ই গাড়ির নয়, সংযোগের সমস্যা — কম ক্ষমতার সার্কিট, দুর্বল আর্থিং, বা এমন কারও বসানো চার্জার যে আগে কখনো চার্জার দেখেনি।"
+          },
+          {
+            "title": "গাড়ি একেবারে মরা",
+            "body": "কোনো আলো নেই, স্ক্রিন নেই, দরজাও খোলে না। প্রায় সবসময়ই মূল ব্যাটারি নয়, ১২ ভোল্টের ব্যাটারি — আর এই গরমে সেটা নির্ধারিত আয়ু খুব কমই পূর্ণ করে।"
+          },
+          {
+            "title": "আমদানি করা গাড়িতে সতর্কবার্তা",
+            "body": "প্রায়ই আসল সমস্যা নয়, সফটওয়্যারের রিজিয়ন: অন্য বাজারের জন্য কোড করা গাড়ি এমন কিছু জানাচ্ছে যা সেখানে সত্যি, এখানে নয়।"
+          }
+        ]
+      }
+    },
+    "service": {
+      "en": {
+        "eyebrow": "What we see",
+        "heading": "What it usually turns out to be",
+        "intro": "Four things account for most of what reaches this side of a workshop in a city like this one, and the order is not the one owners expect.",
+        "items": [
+          {
+            "title": "It is the supply, not the car",
+            "body": "An undersized circuit or a poor earth damages a charger before it damages anything else. We check what the car has been fed before we open anything."
+          },
+          {
+            "title": "It is water, arriving late",
+            "body": "Humidity and residue work on connectors and the charge port for months after a flood. That is where intermittent electrical faults usually start here."
+          },
+          {
+            "title": "It is the software region",
+            "body": "An imported car coded for another market reports faults that are real there and meaningless here. Reading the coding first saves replacing a part that was never broken."
+          },
+          {
+            "title": "It is a wear item that aged early",
+            "body": "Rubber, filters, fluids and the 12-volt battery all live shorter lives in this heat and humidity than the service schedule assumes."
+          }
+        ]
+      },
+      "bn": {
+        "heading": "সাধারণত আসল সমস্যাটা যা হয়",
+        "intro": "এমন একটা শহরে ওয়ার্কশপের এই দিকটায় যা আসে তার বেশির ভাগই চারটি কারণে, আর ক্রমটা মালিকেরা যা ভাবেন তা নয়।",
+        "items": [
+          {
+            "title": "সমস্যা গাড়িতে নয়, সংযোগে",
+            "body": "কম ক্ষমতার সার্কিট বা দুর্বল আর্থিং অন্য কিছুর আগে চার্জারেরই ক্ষতি করে। কিছু খোলার আগে আমরা দেখি গাড়িটি কী থেকে চার্জ হয়েছে।"
+          },
+          {
+            "title": "সমস্যা পানির, আর তা আসে দেরিতে",
+            "body": "বন্যার পর মাসের পর মাস আর্দ্রতা আর জমে থাকা ময়লা কানেক্টর আর চার্জ পোর্টে কাজ করে। এখানে মাঝেমধ্যে হওয়া বৈদ্যুতিক সমস্যা সাধারণত সেখান থেকেই শুরু।"
+          },
+          {
+            "title": "সমস্যা সফটওয়্যারের রিজিয়নে",
+            "body": "অন্য বাজারের জন্য কোড করা আমদানি গাড়ি এমন সমস্যা জানায় যা সেখানে সত্যি, এখানে অর্থহীন। আগে কোডিং পড়ে নিলে কখনো নষ্ট না হওয়া যন্ত্রাংশ বদলানো বেঁচে যায়।"
+          },
+          {
+            "title": "ক্ষয়ে যাওয়া যন্ত্রাংশ, সময়ের আগেই",
+            "body": "রাবার, ফিল্টার, তরল আর ১২ ভোল্ট ব্যাটারি — এই গরম আর আর্দ্রতায় সবই সার্ভিস সূচির ধারণার চেয়ে কম টেকে।"
+          }
+        ]
+      }
+    }
+  },
+  "process": {
+    "en": {
+      "eyebrow": "How it works",
+      "heading": "What a visit will look like",
+      "intro": "The Dhaka centre has not opened yet, so this is what we are building toward rather than what you can book today.",
+      "steps": [
+        {
+          "n": "01",
+          "title": "Tell us the symptom",
+          "body": "Not the diagnosis. What the car is doing, when it started, and whether anything changed before it did."
+        },
+        {
+          "n": "02",
+          "title": "Diagnostic first",
+          "body": "Platform-specific tooling, not a generic scanner. You get the report, including the codes, whatever you decide to do next."
+        },
+        {
+          "n": "03",
+          "title": "A quote you can read",
+          "body": "What is wrong, what it costs, and what happens if you leave it. If a repair is viable instead of a replacement, we will say so."
+        },
+        {
+          "n": "04",
+          "title": "The work, and the record",
+          "body": "Dated invoice, parts specification and a written description — which is what protects your warranty position and your resale value."
+        }
+      ]
+    },
+    "bn": {
+      "eyebrow": "যেভাবে কাজ হয়",
+      "heading": "একটি ভিজিট যেমন হবে",
+      "intro": "ঢাকা কেন্দ্রটি এখনো খোলেনি, তাই এটা আমরা যা গড়ে তুলছি তার বর্ণনা — আজ আপনি যা বুক করতে পারেন তা নয়।",
+      "steps": [
+        {
+          "n": "০১",
+          "title": "লক্ষণটা বলুন",
+          "body": "রোগ নির্ণয় নয়। গাড়ি কী করছে, কবে থেকে শুরু, আর তার আগে কিছু বদলেছিল কি না।"
+        },
+        {
+          "n": "০২",
+          "title": "আগে ডায়াগনস্টিক",
+          "body": "সাধারণ স্ক্যানার নয়, প্ল্যাটফর্ম-নির্দিষ্ট যন্ত্র। এরপর আপনি কী করবেন তা যাই হোক, কোডসহ রিপোর্টটা আপনি পাবেন।"
+        },
+        {
+          "n": "০৩",
+          "title": "পড়ার মতো একটা দরপত্র",
+          "body": "কী সমস্যা, খরচ কত, আর ফেলে রাখলে কী হবে। বদলানোর বদলে মেরামত সম্ভব হলে আমরা তা বলব।"
+        },
+        {
+          "n": "০৪",
+          "title": "কাজ, আর তার রেকর্ড",
+          "body": "তারিখসহ চালান, যন্ত্রাংশের বিবরণ আর কী করা হয়েছে তার লিখিত বর্ণনা — যাতে পরের কর্মশালাও তা পড়তে পারে।"
+        }
+      ]
+    }
+  },
+  "_bengali_review": "⚠️ The Bengali has had no native reviewer."
+}

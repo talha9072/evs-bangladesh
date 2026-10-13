@@ -1,0 +1,259 @@
+{
+  "_comment": "A local block per page, keyed 'brand:<slug>' or 'service:<path>', falling back to 'default:brand' / 'default:service'. WHY IT EXISTS: the 143 brand and service pages inherit the same tokenised copy, so without something written per page they are near-duplicates that differ only in a noun. Twelve specific keys here, chosen where Bangladesh genuinely differs from the other EVS markets: a domestic supply never wired for a car, flats with no dedicated parking, and monsoon water.",
+
+  "_bengali_review": "⚠️ The Bengali has had no native reviewer. It should be read by a Bengali speaker before the domain goes live.",
+
+  "brand:byd": {
+    "en": {
+      "heading": "BYD in Bangladesh",
+      "body": "BYD is the one electric marque with a real presence here — selling officially since 2024, with local assembly announced for 2027. That changes what independent service means for it: the question is rarely whether parts exist, it is what happens once a car is outside warranty, bought used, or imported privately rather than through the distributor.",
+      "points": [
+        "DM-i models are plug-in hybrids — a petrol engine on its own schedule alongside the battery",
+        "Cars bought used or imported privately sit outside the distributor's service relationship",
+        "Blade-pack and charge-port condition are worth checking after a monsoon season"
+      ]
+    },
+    "bn": {
+      "heading": "বাংলাদেশে বিওয়াইডি",
+      "body": "ইলেকট্রিক ব্র্যান্ডগুলোর মধ্যে এখানে সত্যিকারের উপস্থিতি একমাত্র বিওয়াইডি-রই — ২০২৪ সাল থেকে আনুষ্ঠানিক বিক্রি, আর ২০২৭ থেকে স্থানীয় সংযোজনের ঘোষণা। এতে স্বাধীন সার্ভিসের অর্থ বদলে যায়: প্রশ্নটা খুব কমই যন্ত্রাংশ আছে কি না, বরং ওয়ারেন্টির বাইরে চলে যাওয়া, পুরোনো কেনা বা ডিলারের বদলে ব্যক্তিগতভাবে আমদানি করা গাড়ির কী হবে।",
+      "points": [
+        "DM-i মডেলগুলো প্লাগ-ইন হাইব্রিড — ব্যাটারির পাশাপাশি পেট্রোল ইঞ্জিনের নিজস্ব সূচি",
+        "পুরোনো কেনা বা ব্যক্তিগতভাবে আমদানি করা গাড়ি ডিলারের সার্ভিস সম্পর্কের বাইরে থাকে",
+        "বর্ষা শেষে ব্লেড ব্যাটারি আর চার্জ পোর্টের অবস্থা দেখে নেওয়া ভালো"
+      ]
+    }
+  },
+
+  "brand:tesla": {
+    "en": {
+      "heading": "Tesla in Bangladesh",
+      "body": "Tesla has no official presence here, so every car arrived through an importer or the used trade. That decides most of what an owner deals with: the service history is whatever paperwork travelled with the car, and connected features depend on the region the car was coded for.",
+      "points": [
+        "No official channel means no warranty counter — the import paperwork is what any claim rests on",
+        "Region coding affects navigation, app connectivity and sometimes charging behaviour",
+        "Check which market the car was built for before assuming its charging hardware suits a local supply"
+      ]
+    },
+    "bn": {
+      "heading": "বাংলাদেশে টেসলা",
+      "body": "এখানে টেসলার কোনো আনুষ্ঠানিক উপস্থিতি নেই, তাই প্রতিটি গাড়িই এসেছে আমদানিকারক বা পুরোনো গাড়ির বাজার হয়ে। মালিককে যা সামলাতে হয় তার বেশির ভাগই এতে ঠিক হয়ে যায়: সার্ভিসের ইতিহাস বলতে গাড়ির সঙ্গে আসা কাগজপত্র, আর সংযুক্ত সুবিধাগুলো নির্ভর করে গাড়িটি কোন রিজিয়নের জন্য কোড করা তার ওপর।",
+      "points": [
+        "আনুষ্ঠানিক চ্যানেল না থাকার অর্থ ওয়ারেন্টির কোনো দপ্তর নেই — আমদানির কাগজই যেকোনো দাবির ভিত্তি",
+        "রিজিয়ন কোডিং ন্যাভিগেশন, অ্যাপ সংযোগ আর কখনো চার্জিং আচরণেও প্রভাব ফেলে",
+        "চার্জিং যন্ত্রাংশ এখানকার সংযোগে চলবে ধরে নেওয়ার আগে দেখুন গাড়িটি কোন বাজারের জন্য তৈরি"
+      ]
+    }
+  },
+
+  "brand:hyundai": {
+    "en": {
+      "heading": "Hyundai in Bangladesh",
+      "body": "Hyundai's electrified cars mostly arrive through the used trade, often from markets far cooler and far drier than this one. That is the thing to check first: a cooling system and a battery calibration validated elsewhere meet a different problem in Dhaka heat and Dhaka humidity.",
+      "points": [
+        "Used imports deserve a battery state-of-health test before money changes hands",
+        "Confirm the market the car was built for — it decides the cooling and charging calibration",
+        "Humidity works on connectors and the charge port long after the monsoon ends"
+      ]
+    },
+    "bn": {
+      "heading": "বাংলাদেশে হুন্দাই",
+      "body": "হুন্দাইয়ের ইলেকট্রিক গাড়িগুলো বেশির ভাগই আসে পুরোনো গাড়ির বাজার হয়ে, প্রায়ই এমন দেশ থেকে যেখানে আবহাওয়া এখানকার চেয়ে অনেক ঠান্ডা ও শুকনো। প্রথমেই দেখার বিষয় সেটাই: অন্য কোথাও পরীক্ষিত কুলিং সিস্টেম আর ব্যাটারি ক্যালিব্রেশন ঢাকার গরম আর আর্দ্রতায় ভিন্ন সমস্যার মুখে পড়ে।",
+      "points": [
+        "টাকা দেওয়ার আগে পুরোনো আমদানি গাড়ির ব্যাটারির স্বাস্থ্য পরীক্ষা করানো উচিত",
+        "গাড়িটি কোন বাজারের জন্য তৈরি তা নিশ্চিত করুন — কুলিং আর চার্জিং ক্যালিব্রেশন তার ওপরই নির্ভর করে",
+        "বর্ষা শেষ হওয়ার অনেক পরেও আর্দ্রতা কানেক্টর আর চার্জ পোর্টে কাজ করতে থাকে"
+      ]
+    }
+  },
+
+  "default:brand": {
+    "en": {
+      "heading": "Servicing this brand in Bangladesh",
+      "body": "Most electrified cars here arrived through importers or the used trade rather than a local distributor, so two things usually need sorting before anything else: the software region the car was coded for, and an honest reading of the high-voltage battery's state of health. Both are checks, not repairs, and both decide what the car is actually worth running.",
+      "points": [
+        "A state-of-health test on the pack, because there is often no local dealer to arbitrate",
+        "Region and software coding, which affects maps, apps and sometimes charging",
+        "A look at the charge port and low-voltage harness, which is where humidity does its damage"
+      ]
+    },
+    "bn": {
+      "heading": "বাংলাদেশে এই ব্র্যান্ডের সার্ভিস",
+      "body": "এখানকার বেশির ভাগ ইলেকট্রিক গাড়ি এসেছে আমদানিকারক বা পুরোনো গাড়ির বাজার হয়ে, স্থানীয় ডিলারের মাধ্যমে নয়। তাই অন্য কিছুর আগে সাধারণত দুটো বিষয় ঠিক করতে হয়: গাড়িটি কোন রিজিয়নের জন্য কোড করা, আর উচ্চ-ভোল্টেজ ব্যাটারির স্বাস্থ্যের সৎ একটা হিসাব। দুটোই পরীক্ষা, মেরামত নয় — আর দুটোই ঠিক করে দেয় গাড়িটা চালানোর মতো কি না।",
+      "points": [
+        "ব্যাটারির স্বাস্থ্য পরীক্ষা, কারণ মীমাংসা করার মতো স্থানীয় ডিলার প্রায়ই থাকে না",
+        "রিজিয়ন ও সফটওয়্যার কোডিং, যা ম্যাপ, অ্যাপ আর কখনো চার্জিংয়েও প্রভাব ফেলে",
+        "চার্জ পোর্ট আর নিম্ন-ভোল্টেজ তারের দিকে নজর — আর্দ্রতা এখানেই ক্ষতি করে"
+      ]
+    }
+  },
+
+  "service:services/battery-electrical": {
+    "en": {
+      "heading": "High-voltage work in Dhaka",
+      "body": "Two things make battery and electrical work different here. The first is water: a city that floods every monsoon, and months of humidity afterwards working on connectors, the charge port and the low-voltage harness. The second is the supply the car is charged from — a domestic connection sized for lights and fans, carrying a load it was never designed for.",
+      "points": [
+        "Corrosion on connectors and the charge port shows up as intermittent faults nobody can reproduce",
+        "An undersized or poorly earthed circuit damages the charger before it damages anything else",
+        "A 12-volt battery lasts less here than its rated life, and a flat one looks exactly like a dead car"
+      ]
+    },
+    "bn": {
+      "heading": "ঢাকায় উচ্চ-ভোল্টেজের কাজ",
+      "body": "দুটো কারণে এখানে ব্যাটারি ও বৈদ্যুতিক কাজ আলাদা। প্রথমটি পানি: প্রতি বর্ষায় ডুবে যাওয়া শহর, আর তারপর মাসের পর মাস আর্দ্রতা কানেক্টর, চার্জ পোর্ট আর নিম্ন-ভোল্টেজ তারের ওপর কাজ করতে থাকে। দ্বিতীয়টি যে সংযোগ থেকে গাড়ি চার্জ হয় — বাতি আর ফ্যানের হিসাবে বানানো একটা ঘরোয়া সংযোগ, যা বইছে এমন ভার যার জন্য সেটা কখনো তৈরি হয়নি।",
+      "points": [
+        "কানেক্টর আর চার্জ পোর্টের ক্ষয় এমন সমস্যা হয়ে দেখা দেয় যা কেউ আবার ঘটিয়ে দেখাতে পারে না",
+        "কম ক্ষমতার বা দুর্বল আর্থিংয়ের সার্কিট অন্য কিছুর আগে চার্জারেরই ক্ষতি করে",
+        "১২ ভোল্ট ব্যাটারি এখানে নির্ধারিত আয়ুর চেয়ে কম টেকে, আর সেটা শেষ হলে গাড়ি একেবারে মরা মনে হয়"
+      ]
+    }
+  },
+
+  "service:services/battery-electrical/charger-installation": {
+    "en": {
+      "heading": "Installing a charger in a Dhaka flat",
+      "body": "This is the job that decides whether owning an EV here works at all, and it is an electrical question before it is a parking one. Most buildings have no dedicated bay, a shared meter, and a supply rated for a household rather than a car — so the install starts with what the circuit can actually carry and whether the earth is sound.",
+      "points": [
+        "The supply rating and the earth get checked first; everything else follows from them",
+        "A slower charger on a sound circuit beats a fast one on a marginal supply, every time",
+        "Where the car parks matters — a point installed where water collects is a problem deferred, not solved"
+      ]
+    },
+    "bn": {
+      "heading": "ঢাকার ফ্ল্যাটে চার্জার বসানো",
+      "body": "এই কাজটিই ঠিক করে দেয় এখানে ইভি রাখা আদৌ চলবে কি না, আর এটা পার্কিংয়ের আগে বিদ্যুতের প্রশ্ন। বেশির ভাগ ভবনে আলাদা জায়গা নেই, মিটার ভাগাভাগির, আর সংযোগের ক্ষমতা একটা পরিবারের হিসাবে — গাড়ির নয়। তাই কাজ শুরু হয় এটা দিয়ে যে সার্কিট আসলে কত বইতে পারে আর আর্থিং ঠিক আছে কি না।",
+      "points": [
+        "আগে সংযোগের ক্ষমতা আর আর্থিং দেখা হয়; বাকি সব তার পরেই",
+        "দুর্বল সংযোগে দ্রুত চার্জারের চেয়ে ভালো সংযোগে ধীর চার্জার সবসময়ই ভালো",
+        "গাড়ি কোথায় থাকে তা গুরুত্বপূর্ণ — পানি জমে এমন জায়গায় পয়েন্ট বসানো সমস্যা পেছানো, সমাধান নয়"
+      ]
+    }
+  },
+
+  "service:services/battery-electrical/battery-health-thermal-management": {
+    "en": {
+      "heading": "Why this test matters here",
+      "body": "Heat and humidity together are harder on a pack than either alone, and a cooling circuit running below par throws no warning light and no fault code. It simply ages the battery, and the owner finds out two or three years later as range that never comes back.",
+      "points": [
+        "State of health is a measurement, not an estimate from the dashboard percentage",
+        "Coolant condition and pump flow are what quietly degrade in this climate",
+        "Worth doing before the hot season rather than after it"
+      ]
+    },
+    "bn": {
+      "heading": "এখানে এই পরীক্ষাটা কেন গুরুত্বপূর্ণ",
+      "body": "গরম আর আর্দ্রতা একসঙ্গে ব্যাটারির জন্য আলাদা আলাদা যেকোনোটির চেয়ে কঠিন, আর কম ক্ষমতায় চলা কুলিং সার্কিট কোনো সতর্কবাতি জ্বালায় না, কোনো ফল্ট কোডও দেয় না। সেটা কেবল ব্যাটারিকে বুড়ো করে, আর মালিক দুই-তিন বছর পর টের পান — এমন রেঞ্জ হারিয়ে যা আর ফেরে না।",
+      "points": [
+        "ব্যাটারির স্বাস্থ্য একটা মাপ, ড্যাশবোর্ডের শতাংশ থেকে করা অনুমান নয়",
+        "এই আবহাওয়ায় নিঃশব্দে খারাপ হয় কুল্যান্টের অবস্থা আর পাম্পের প্রবাহ",
+        "গরমের মৌসুমের পরে নয়, আগেই করিয়ে নেওয়া ভালো"
+      ]
+    }
+  },
+
+  "service:services/mechanical/ac-hvac-service": {
+    "en": {
+      "heading": "Air conditioning in this climate",
+      "body": "In an electric car the air conditioning is not a comfort system on its own — in most designs the same circuit helps manage the battery. In a climate this humid the system also works harder than its design assumes, and a weak one costs range as well as comfort.",
+      "points": [
+        "Cabin cooling and battery cooling often share a circuit — a weak system costs range too",
+        "Humidity loads the evaporator and drain; a blocked drain is a smell before it is a fault",
+        "Dust and pollen clog a condenser in a way that mimics a refrigerant problem"
+      ]
+    },
+    "bn": {
+      "heading": "এই আবহাওয়ায় এয়ার কন্ডিশনিং",
+      "body": "ইলেকট্রিক গাড়িতে এয়ার কন্ডিশনিং কেবল আরামের ব্যবস্থা নয় — বেশির ভাগ নকশায় একই সার্কিট ব্যাটারির তাপ সামলাতেও সাহায্য করে। এত আর্দ্র আবহাওয়ায় ব্যবস্থাটিকে নকশার ধারণার চেয়ে বেশি খাটতে হয়, আর দুর্বল হলে তা আরামের সঙ্গে রেঞ্জও কেড়ে নেয়।",
+      "points": [
+        "কেবিন আর ব্যাটারির ঠান্ডা করার সার্কিট প্রায়ই এক — দুর্বল ব্যবস্থা রেঞ্জও কমায়",
+        "আর্দ্রতা ইভাপোরেটর আর ড্রেনের ওপর চাপ ফেলে; বন্ধ ড্রেন সমস্যা হওয়ার আগে গন্ধ হয়ে আসে",
+        "ধুলা আর পরাগ কনডেনসার এমনভাবে বন্ধ করে যা গ্যাসের সমস্যার মতো মনে হয়"
+      ]
+    }
+  },
+
+  "service:services/programming": {
+    "en": {
+      "heading": "Software on an imported car",
+      "body": "Because most electrified cars here came in through importers or the used trade, the software is frequently coded for another market. That shows up as navigation that does not know where it is, an app that will not pair, and features the car has in hardware but will not enable.",
+      "points": [
+        "Region coding is the most common single job on an imported car here",
+        "Over-the-air updates often will not reach a car coded for another market",
+        "Module programming is what restores features the car already has"
+      ]
+    },
+    "bn": {
+      "heading": "আমদানি করা গাড়ির সফটওয়্যার",
+      "body": "এখানকার বেশির ভাগ ইলেকট্রিক গাড়ি আমদানিকারক বা পুরোনো গাড়ির বাজার হয়ে এসেছে বলে সফটওয়্যার প্রায়ই অন্য বাজারের জন্য কোড করা থাকে। তার ফল দেখা যায় এভাবে: ন্যাভিগেশন জানে না সে কোথায়, অ্যাপ যুক্ত হয় না, আর যন্ত্রাংশে থাকা সুবিধাগুলো চালু হয় না।",
+      "points": [
+        "এখানে আমদানি করা গাড়িতে সবচেয়ে বেশি যে কাজটি লাগে তা হলো রিজিয়ন কোডিং",
+        "অন্য বাজারের জন্য কোড করা গাড়িতে অনলাইন আপডেট প্রায়ই পৌঁছায় না",
+        "মডিউল প্রোগ্রামিংই গাড়ির ভেতরে থাকা সুবিধাগুলো ফিরিয়ে আনে"
+      ]
+    }
+  },
+
+  "service:services/programming/custom-region-coding": {
+    "en": {
+      "heading": "Region coding, the Bangladesh case",
+      "body": "A car built for China, Japan or Europe and sold in Dhaka carries that market's assumptions in its software. Region coding is what reconciles them, and on a private import it is usually the difference between a car that works and a car that merely drives.",
+      "points": [
+        "Maps, voice, app pairing and connected services all hang on the coded region",
+        "Some charging and thermal profiles are region-set, which matters on a local supply",
+        "Done properly it is a software job, not a workaround"
+      ]
+    },
+    "bn": {
+      "heading": "রিজিয়ন কোডিং, বাংলাদেশের ক্ষেত্রে",
+      "body": "চীন, জাপান বা ইউরোপের জন্য বানানো আর ঢাকায় বিক্রি হওয়া গাড়ি তার সফটওয়্যারে সেই বাজারের ধারণাগুলোই বয়ে আনে। রিজিয়ন কোডিং সেগুলোরই মিলমিশ ঘটায়, আর ব্যক্তিগত আমদানির ক্ষেত্রে সেটাই সাধারণত পার্থক্য গড়ে দেয় — গাড়ি কাজ করা আর গাড়ি শুধু চলার মধ্যে।",
+      "points": [
+        "ম্যাপ, ভয়েস, অ্যাপ সংযোগ আর সংযুক্ত সেবা — সবই নির্ভর করে কোড করা রিজিয়নের ওপর",
+        "কিছু চার্জিং আর তাপ প্রোফাইলও রিজিয়ন অনুযায়ী ঠিক করা, যা স্থানীয় সংযোগে গুরুত্বপূর্ণ",
+        "ঠিকভাবে করলে এটা সফটওয়্যারের কাজ, কোনো ফাঁকিবাজি নয়"
+      ]
+    }
+  },
+
+  "service:services/mechanical/full-checkups-diagnostics": {
+    "en": {
+      "heading": "What a pre-purchase check looks like here",
+      "body": "With most cars imported and few holding a local service history, the inspection does more work here than it does elsewhere. Four things decide whether a used electrified car is worth the asking price, and only one of them shows on a test drive.",
+      "points": [
+        "Battery state of health, measured rather than read off the dashboard",
+        "Which market the car was built for, because the cooling calibration follows it",
+        "Any flood history — and the connector and charge-port condition that follows from it",
+        "Where the warranty is held, and whether it covers the high-voltage pack at all"
+      ]
+    },
+    "bn": {
+      "heading": "এখানে কেনার আগের পরীক্ষা কেমন হয়",
+      "body": "বেশির ভাগ গাড়ি আমদানি করা আর অল্প কয়েকটিরই স্থানীয় সার্ভিস রেকর্ড আছে, তাই এখানে পরীক্ষাটির ভূমিকা অন্য জায়গার চেয়ে বড়। চারটি বিষয় ঠিক করে দেয় পুরোনো ইলেকট্রিক গাড়িটি চাওয়া দামের যোগ্য কি না, আর তার মধ্যে একটিই কেবল টেস্ট ড্রাইভে ধরা পড়ে।",
+      "points": [
+        "ব্যাটারির স্বাস্থ্য — মেপে, ড্যাশবোর্ড দেখে নয়",
+        "গাড়িটি কোন বাজারের জন্য তৈরি, কারণ কুলিং ক্যালিব্রেশন তারই অনুসরণ করে",
+        "বন্যায় ডোবার ইতিহাস — আর তার পরের কানেক্টর ও চার্জ পোর্টের অবস্থা",
+        "ওয়ারেন্টি কোথায় রাখা, আর তা আদৌ উচ্চ-ভোল্টেজ ব্যাটারি কভার করে কি না"
+      ]
+    }
+  },
+
+  "default:service": {
+    "en": {
+      "heading": "This service in Bangladesh",
+      "body": "Two conditions shape almost every job in Dhaka. Water — a city that floods each monsoon, followed by months of humidity working on anything electrical. And a domestic supply that was sized for a household rather than a car, which is where most charging faults begin.",
+      "points": [
+        "Service intervals validated in drier markets are optimistic in this humidity",
+        "Corrosion arrives months after the water does, as faults nobody can reproduce",
+        "Most cars here are imports, so the software region is checked as a matter of course"
+      ]
+    },
+    "bn": {
+      "heading": "বাংলাদেশে এই সেবা",
+      "body": "ঢাকায় প্রায় প্রতিটি কাজকেই দুটো বিষয় আকার দেয়। পানি — প্রতি বর্ষায় ডুবে যাওয়া শহর, আর তারপর মাসের পর মাস আর্দ্রতা বৈদ্যুতিক সবকিছুর ওপর কাজ করতে থাকে। আর একটা ঘরোয়া বিদ্যুৎ সংযোগ, যা বানানো হয়েছিল পরিবারের হিসাবে, গাড়ির নয় — চার্জিংয়ের বেশির ভাগ সমস্যা সেখান থেকেই শুরু।",
+      "points": [
+        "শুকনো আবহাওয়ার বাজারে ঠিক করা সার্ভিসের সময়সূচি এই আর্দ্রতায় একটু বেশিই আশাবাদী",
+        "পানি আসার মাসখানেক পরে আসে ক্ষয়, এমন সমস্যা হয়ে যা কেউ আবার দেখাতে পারে না",
+        "এখানকার বেশির ভাগ গাড়িই আমদানি করা, তাই সফটওয়্যারের রিজিয়ন নিয়ম করেই দেখা হয়"
+      ]
+    }
+  }
+}

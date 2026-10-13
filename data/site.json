@@ -1,0 +1,43 @@
+{
+  "_comment": "Branch row and cities, hand-written because this deployment has no database. Everything a trading business would have - phone, email, WhatsApp, hours, reviews - is null ON PURPOSE: EVS has not opened in Bangladesh.",
+  "branch": {
+    "slug": "bangladesh",
+    "name": "EVS Bangladesh",
+    "country_code": "BD",
+    "country_name": {
+      "en": "Bangladesh",
+      "bn": "বাংলাদেশ"
+    },
+    "_country_name_the": "English says \"in Bangladesh\", not \"in the Bangladesh\", so this stays null and branchTokens() falls back to country_name.",
+    "country_name_the": null,
+    "site_url": "https://evsbgd.com",
+    "support_phone": null,
+    "support_phone_display": null,
+    "whatsapp_number": null,
+    "support_email": null,
+    "contact_path": "/contact",
+    "social_links": {},
+    "opening_hours": {},
+    "google_reviews_url": null,
+    "google_reviews_count": null,
+    "instagram_url": null,
+    "locales": [
+      "en",
+      "bn"
+    ],
+    "is_published": true,
+    "coming_soon": true
+  },
+  "_cities_comment": "ONE CITY. Dhaka holds effectively all of the registered four-wheel EV parc, and a single centre there is what EVS is opening. Chattogram (~250 km) and Sylhet (~240 km) are discussed in the body copy as separate markets with no claim of premises. Add a city here only when there is a workshop in it.",
+  "cities": [
+    {
+      "slug": "dhaka",
+      "name": {
+        "en": "Dhaka",
+        "bn": "ঢাকা"
+      },
+      "is_primary": true,
+      "sort_order": 1
+    }
+  ]
+}

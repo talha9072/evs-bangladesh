@@ -1,0 +1,167 @@
+{
+  "_comment": "The five hand-written home sections. NOT a translation of the Iraq or Bahrain file — Bangladesh's EV story is its own. Bahrain's angle was 'one centre covers an island'; Iraq's was neighbourhood generators and extreme heat. Bangladesh's are different again: water, a domestic supply that was never wired for a car, and a parc that is tiny today and about to multiply because of a tax change. Every figure below is ATTRIBUTED in the copy rather than asserted, because a fact-check of the Iraq site found nine claims I had stated as settled when they were inference. Nothing here states a temperature, a ranking or a market share that I cannot source.",
+
+  "_bengali_review": "⚠️ The Bengali has had no native reviewer. It is written to be plain and correct, but it should be read by a Bengali speaker before the domain goes live.",
+
+  "en": {
+    "intro": {
+      "eyebrow": "EV service in Bangladesh",
+      "heading": "The parc is small today. That is about to change..",
+      "body": [
+        "The BRTA counted 669 registered electric vehicles in May 2026 — a rounding error against the country's car population, and the reason nobody has built an independent EV workshop here yet. The 2026-27 budget is what changes it: import tax on electric and plug-in hybrid cars cut sharply, all duty removed from imported chargers and charging equipment, and the tax burden on petrol and diesel cars pushed the other way.",
+        "When that lands, the cars arrive before the people who can fix them do. BYD has sold here officially since 2024 and Runner has announced local assembly from 2027, but a manufacturer's own network covers its own cars — and says nothing about the imported, the out-of-warranty, and the brands with no local presence at all.",
+        "That is the gap EVS is opening in Dhaka to fill. We are a specialist, not a general garage: high-voltage diagnostics, battery state-of-health testing, drive units, thermal management, software and region coding — plus the ordinary work every car needs, done by people who will not disconnect the wrong thing on an electric one."
+      ]
+    },
+
+    "brands": {
+      "eyebrow": "Brands",
+      "heading": "The cars we are set up for..",
+      "body": "BYD is the brand with an official presence and the clearest run at this market. Around it sit the Chinese marques arriving through importers, the Japanese and Korean hybrids that have been here far longer, and a thin layer of European EVs. All of them need things a general workshop cannot do.",
+      "featured": ["byd", "tesla", "bmw", "hyundai", "kia", "mercedes-benz"],
+      "cta": "All brands we service"
+    },
+
+    "charging": {
+      "eyebrow": "Charging",
+      "heading": "Charging in Dhaka, honestly..",
+      "body": [
+        "Public charging barely exists. Reporting puts the number of approved public stations in the low tens with only a handful fully operational, almost all of them in Dhaka, against a government roadmap that talks about more than a thousand. The regulator has set a dedicated low-tension EV tariff, which matters — but a tariff is not a socket.",
+        "So in practice the car charges at home, and that is where the real problem is. Most of Dhaka lives in flats without dedicated off-street parking, on a domestic connection sized for lights and fans. An EV added to that draws more, for longer, than anything else in the building. The failures we expect here are not exotic: an undersized supply, an earth that was never tested, and a charger installed by someone who had not seen one before."
+      ],
+      "points": [
+        "Get the supply and the earthing checked before the charger, not after — it is the cheapest part of the job and the one that matters for safety",
+        "A slower charger on a sound circuit is worth more than a fast one on a marginal supply",
+        "If the car is parked where water collects in monsoon, say so before anything is installed"
+      ]
+    },
+
+    "areas": {
+      "eyebrow": "Coverage",
+      "heading": "Dhaka first, and we will say why..",
+      "body": "Effectively every registered electric car in the country is in and around Dhaka, so that is where the first centre goes. Chattogram is roughly 250 km away and Sylhet about 240 — real markets, and the port city in particular is where a lot of what gets imported first lands. Neither is a drive you make for a diagnostic, so neither is served from Dhaka, and we are not going to claim otherwise.",
+      "list": [
+        "Dhaka — the first centre, and where effectively the whole parc is",
+        "Gulshan",
+        "Banani",
+        "Dhanmondi",
+        "Uttara",
+        "Bashundhara",
+        "Chattogram — a separate market, and the port most imports land at",
+        "Sylhet — a separate market, with its own import pattern"
+      ]
+    },
+
+    "faqs": {
+      "eyebrow": "Questions",
+      "heading": "Before you ask..",
+      "items": [
+        {
+          "q": "Is EVS open in Bangladesh yet?",
+          "a": "Not yet. The Dhaka centre is in preparation and this site is how you can follow it. There is no address or phone number to give you today, and we would rather say that plainly than publish a placeholder. Register your interest and we will tell you the moment we open."
+        },
+        {
+          "q": "My building has no dedicated parking. Can I still own an EV?",
+          "a": "It is the single most common obstacle in Dhaka, and it is an electrical question before it is a parking one. What matters is whether a circuit can be run to where the car sits, what that circuit is rated for, and whether the earth is sound — a shared garage with a properly installed point is fine, a kitchen extension lead trailing down a stairwell is not. Get the supply assessed before you buy the car, not after."
+        },
+        {
+          "q": "What does monsoon flooding do to an electric car?",
+          "a": "Less than most people fear in the moment, and more than they expect afterwards. A modern high-voltage pack is sealed and will usually survive standing water that would stop a petrol engine. What it does not survive well is the months after: humidity and residue work on connectors, the low-voltage harness and the charge port, and corrosion there shows up as intermittent faults nobody can reproduce. If the car has stood in water, it is worth an inspection even when it drives away fine."
+        },
+        {
+          "q": "Is it worth buying an EV before the charging network exists?",
+          "a": "That depends almost entirely on where you park. If you can charge at home overnight, the public network is close to irrelevant for daily use in a city this dense — most owners here rarely need it. If you cannot charge at home, the honest answer today is that public charging is not yet reliable enough to depend on, and a hybrid is the easier car to live with until it is."
+        },
+        {
+          "q": "Do you work on hybrids as well?",
+          "a": "Yes. A hybrid carries a petrol engine with its own oil, filters, plugs and cooling circuit alongside a high-voltage battery with its own thermal management — two maintenance schedules, not one. Workshops that only know the engine half miss the battery entirely, and in a market with far more hybrids than EVs that gap matters."
+        },
+        {
+          "q": "My car was imported and has no local dealer. Can it still be serviced?",
+          "a": "Usually, and what it needs is rarely exotic. The software region the car was coded for decides whether maps, apps and connected features work; beyond that it is diagnostics, wear items and high-voltage work, none of which depends on a dealer existing. Keep whatever import paperwork came with the car — it decides what any warranty claim can look like."
+        }
+      ]
+    }
+  },
+
+  "bn": {
+    "intro": {
+      "eyebrow": "বাংলাদেশে ইভি সার্ভিস",
+      "heading": "গাড়ির সংখ্যা এখন কম। সেটা বদলাতে চলেছে..",
+      "body": [
+        "বিআরটিএ-র হিসাবে ২০২৬ সালের মে পর্যন্ত নিবন্ধিত ইলেকট্রিক গাড়ির সংখ্যা ৬৬৯টি — দেশের মোট গাড়ির তুলনায় যা প্রায় শূন্য, আর এ কারণেই এখানে কেউ স্বাধীন ইভি ওয়ার্কশপ গড়েনি। ২০২৬-২৭ অর্থবছরের বাজেট এই ছবিটাই বদলে দিচ্ছে: ইলেকট্রিক ও প্লাগ-ইন হাইব্রিড গাড়ির আমদানি কর বড় আকারে কমানো হয়েছে, আমদানি করা চার্জার ও চার্জিং সরঞ্জামের শুল্ক পুরোপুরি তুলে দেওয়া হয়েছে, আর পেট্রোল-ডিজেল গাড়ির করভার উল্টো দিকে বাড়ানো হয়েছে।",
+        "এটা কার্যকর হলে গাড়ি আগে আসবে, আর সেগুলো যারা সারাতে পারে তারা পরে। বিওয়াইডি ২০২৪ সাল থেকে এখানে আনুষ্ঠানিকভাবে বিক্রি করছে এবং রানার ২০২৭ থেকে স্থানীয় সংযোজনের ঘোষণা দিয়েছে — কিন্তু কোনো প্রস্তুতকারকের নিজস্ব নেটওয়ার্ক কেবল তার নিজের গাড়িই দেখে। আমদানি করা গাড়ি, ওয়ারেন্টির বাইরে চলে যাওয়া গাড়ি, আর যেসব ব্র্যান্ডের এখানে কোনো উপস্থিতিই নেই — তাদের জন্য কিছু থাকে না।",
+        "এই শূন্যতা পূরণ করতেই ইভিএস ঢাকায় কেন্দ্র খুলছে। আমরা সাধারণ গ্যারেজ নই, বিশেষজ্ঞ: উচ্চ-ভোল্টেজ ডায়াগনস্টিকস, ব্যাটারির স্বাস্থ্য পরীক্ষা, ড্রাইভ ইউনিট, তাপ ব্যবস্থাপনা, সফটওয়্যার ও রিজিয়ন কোডিং — সেই সঙ্গে প্রতিটি গাড়ির সাধারণ কাজগুলোও, এমন লোকের হাতে যারা ইলেকট্রিক গাড়িতে ভুল জিনিস খুলে ফেলবে না।"
+      ]
+    },
+
+    "brands": {
+      "eyebrow": "ব্র্যান্ড",
+      "heading": "যেসব গাড়ির জন্য আমরা প্রস্তুত হচ্ছি..",
+      "body": "আনুষ্ঠানিক উপস্থিতি আর সবচেয়ে পরিষ্কার সুযোগ — দুটোই এখন বিওয়াইডি-র। তার চারপাশে আছে আমদানিকারকদের হাত ধরে আসা চীনা ব্র্যান্ডগুলো, অনেক আগে থেকেই থাকা জাপানি ও কোরিয়ান হাইব্রিড, আর পাতলা একটা স্তর ইউরোপীয় ইভি-র। এদের সবারই এমন কিছু দরকার যা সাধারণ ওয়ার্কশপ পারে না।",
+      "featured": ["byd", "tesla", "bmw", "hyundai", "kia", "mercedes-benz"],
+      "cta": "আমরা যেসব ব্র্যান্ডের সেবা দেব"
+    },
+
+    "charging": {
+      "eyebrow": "চার্জিং",
+      "heading": "ঢাকায় চার্জিং, সোজা কথায়..",
+      "body": [
+        "পাবলিক চার্জিং প্রায় নেই বললেই চলে। প্রতিবেদনগুলো বলছে অনুমোদিত পাবলিক স্টেশনের সংখ্যা বিশের ঘরে, পুরোপুরি চালু আছে হাতে গোনা কয়েকটি, আর প্রায় সবই ঢাকায় — অথচ সরকারি রোডম্যাপে হাজারের বেশি স্টেশনের কথা বলা আছে। নিয়ন্ত্রক সংস্থা ইভি-র জন্য আলাদা নিম্ন-ভোল্টেজ ট্যারিফ ঠিক করেছে, যা গুরুত্বপূর্ণ — কিন্তু ট্যারিফ তো আর সকেট নয়।",
+        "তাই বাস্তবে গাড়ি চার্জ হয় বাড়িতেই, আর আসল সমস্যাটা সেখানেই। ঢাকার বেশির ভাগ মানুষ ফ্ল্যাটে থাকেন, আলাদা পার্কিং নেই, আর বিদ্যুৎ সংযোগটা বানানো হয়েছিল বাতি আর ফ্যানের হিসাবে। সেই সংযোগে একটা ইভি যোগ হলে সে বাড়ির আর যেকোনো কিছুর চেয়ে বেশি বিদ্যুৎ টানে, অনেক বেশি সময় ধরে। এখানে আমরা যে সমস্যাগুলো দেখব বলে আশা করছি সেগুলো জটিল কিছু নয়: কম ক্ষমতার সংযোগ, কখনো পরীক্ষা না করা আর্থিং, আর এমন কারও লাগানো চার্জার যে আগে কখনো চার্জার দেখেনি।"
+      ],
+      "points": [
+        "চার্জারের আগে বিদ্যুৎ সংযোগ আর আর্থিং পরীক্ষা করান, পরে নয় — এটাই কাজের সবচেয়ে সস্তা অংশ আর নিরাপত্তার জন্য সবচেয়ে জরুরি",
+        "দুর্বল সংযোগে দ্রুতগতির চার্জারের চেয়ে ভালো সংযোগে ধীরগতির চার্জার অনেক ভালো",
+        "বর্ষায় যেখানে পানি জমে সেখানে গাড়ি রাখলে কিছু লাগানোর আগেই সেটা জানিয়ে দিন"
+      ]
+    },
+
+    "areas": {
+      "eyebrow": "কভারেজ",
+      "heading": "আগে ঢাকা, আর কেন তা বলছি..",
+      "body": "দেশের কার্যত সব নিবন্ধিত ইলেকট্রিক গাড়িই ঢাকা ও তার আশপাশে, তাই প্রথম কেন্দ্রটি সেখানেই। চট্টগ্রাম প্রায় ২৫০ কিলোমিটার দূরে আর সিলেট প্রায় ২৪০ — দুটোই সত্যিকারের বাজার, আর বন্দরনগরী চট্টগ্রামেই আমদানির বড় অংশ প্রথমে নামে। কোনোটিই এমন দূরত্ব নয় যা কেউ শুধু ডায়াগনস্টিকের জন্য পাড়ি দেবে, তাই ঢাকা থেকে সেগুলোর সেবা দেওয়া যায় না — আর আমরা উল্টোটা দাবি করব না।",
+      "list": [
+        "ঢাকা — প্রথম কেন্দ্র, আর কার্যত পুরো গাড়িবহরই এখানে",
+        "গুলশান",
+        "বনানী",
+        "ধানমন্ডি",
+        "উত্তরা",
+        "বসুন্ধরা",
+        "চট্টগ্রাম — আলাদা বাজার, আর আমদানির প্রধান বন্দর",
+        "সিলেট — আলাদা বাজার, নিজস্ব আমদানির ধরন"
+      ]
+    },
+
+    "faqs": {
+      "eyebrow": "প্রশ্ন",
+      "heading": "জিজ্ঞেস করার আগে..",
+      "items": [
+        {
+          "q": "ইভিএস বাংলাদেশ কি খুলেছে?",
+          "a": "এখনো না। ঢাকা কেন্দ্রটি প্রস্তুতির পর্যায়ে আছে, আর এই সাইট হলো তা অনুসরণ করার উপায়। আজ আপনাকে দেওয়ার মতো কোনো ঠিকানা বা ফোন নম্বর নেই, আর মনগড়া কিছু প্রকাশ করার চেয়ে এটা স্পষ্ট করে বলাই আমরা ভালো মনে করি। আগ্রহ নিবন্ধন করুন, খোলার মুহূর্তেই আপনাকে জানাব।"
+        },
+        {
+          "q": "আমার বিল্ডিংয়ে আলাদা পার্কিং নেই। তবু কি ইভি রাখা যায়?",
+          "a": "ঢাকায় এটাই সবচেয়ে সাধারণ বাধা, আর এটা পার্কিংয়ের আগে বিদ্যুতের প্রশ্ন। গুরুত্বপূর্ণ হলো গাড়ি যেখানে থাকে সেখানে একটা সার্কিট টানা যায় কি না, সেই সার্কিটের ক্ষমতা কত, আর আর্থিং ঠিক আছে কি না — ভাগাভাগির গ্যারেজে ঠিকভাবে বসানো পয়েন্ট চলে, কিন্তু সিঁড়ি বেয়ে নামানো রান্নাঘরের এক্সটেনশন তার নয়। গাড়ি কেনার আগে সংযোগটা দেখিয়ে নিন, পরে নয়।"
+        },
+        {
+          "q": "বর্ষার জলাবদ্ধতা ইলেকট্রিক গাড়ির কী ক্ষতি করে?",
+          "a": "তখনকার মুহূর্তে বেশির ভাগ মানুষ যতটা ভয় পান ততটা নয়, আর পরে তাঁরা যতটা ভাবেন তার চেয়ে বেশি। আধুনিক উচ্চ-ভোল্টেজ ব্যাটারি সিল করা থাকে, আর যে পানিতে পেট্রোল ইঞ্জিন বন্ধ হয়ে যাবে সেটা সাধারণত ব্যাটারি সয়ে যায়। যা সয় না তা হলো পরের মাসগুলো: আর্দ্রতা আর জমে থাকা ময়লা কানেক্টর, নিম্ন-ভোল্টেজ তার আর চার্জ পোর্টে কাজ করতে থাকে, আর সেই ক্ষয় দেখা দেয় এমন সব সমস্যা হয়ে যেগুলো কেউ আবার ঘটিয়ে দেখাতে পারে না। গাড়ি পানিতে দাঁড়িয়ে থাকলে চলতে ফিরতে ঠিক থাকলেও একবার দেখিয়ে নেওয়া উচিত।"
+        },
+        {
+          "q": "চার্জিং নেটওয়ার্ক তৈরি হওয়ার আগেই ইভি কেনা কি ঠিক হবে?",
+          "a": "সেটা প্রায় পুরোপুরি নির্ভর করে আপনি কোথায় গাড়ি রাখেন তার ওপর। রাতে বাড়িতে চার্জ দিতে পারলে এত ঘন একটা শহরে দৈনন্দিন ব্যবহারে পাবলিক নেটওয়ার্ক প্রায় অপ্রাসঙ্গিক — এখানকার বেশির ভাগ মালিকের কদাচিৎ তা লাগে। আর বাড়িতে চার্জ দিতে না পারলে সৎ উত্তর হলো, পাবলিক চার্জিং এখনো নির্ভর করার মতো যথেষ্ট নির্ভরযোগ্য নয়, আর সেটা না হওয়া পর্যন্ত হাইব্রিড চালানো সহজ।"
+        },
+        {
+          "q": "আপনারা কি হাইব্রিড গাড়িতেও কাজ করেন?",
+          "a": "হ্যাঁ। হাইব্রিডে একদিকে থাকে পেট্রোল ইঞ্জিন — তার নিজের তেল, ফিল্টার, প্লাগ আর কুলিং সার্কিটসহ — আর অন্যদিকে উচ্চ-ভোল্টেজ ব্যাটারি, তার নিজের তাপ ব্যবস্থাপনাসহ। অর্থাৎ দুটো রক্ষণাবেক্ষণের সূচি, একটা নয়। যেসব ওয়ার্কশপ কেবল ইঞ্জিনের দিকটা জানে তারা ব্যাটারির দিকটা পুরোপুরি বাদ দিয়ে যায়, আর যে বাজারে ইভি-র চেয়ে হাইব্রিড অনেক বেশি সেখানে এই ফাঁকটা বড়।"
+        },
+        {
+          "q": "আমার গাড়ি আমদানি করা, এখানে কোনো ডিলার নেই। তবু কি সার্ভিস করা যাবে?",
+          "a": "সাধারণত যাবে, আর যা লাগে তা খুব জটিল কিছু নয়। গাড়িটি যে রিজিয়নের জন্য কোড করা, তা-ই ঠিক করে দেয় ম্যাপ, অ্যাপ আর সংযুক্ত সুবিধাগুলো চলবে কি না; এর বাইরে থাকে ডায়াগনস্টিকস, ক্ষয়ে যাওয়া যন্ত্রাংশ আর উচ্চ-ভোল্টেজের কাজ — যার কোনোটিই ডিলার থাকার ওপর নির্ভর করে না। গাড়ির সঙ্গে আসা আমদানির কাগজপত্র রেখে দিন — ওয়ারেন্টির দাবি কেমন হতে পারে তা ওগুলোই ঠিক করে।"
+        }
+      ]
+    }
+  }
+}

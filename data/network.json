@@ -1,0 +1,158 @@
+{
+  "countries": [
+    {
+      "slug": "uae",
+      "code": "ae",
+      "url": "https://evsuae.com",
+      "status": "open",
+      "since": 2020,
+      "name": {
+        "en": "United Arab Emirates",
+        "ar": "الإمارات العربية المتحدة",
+        "bn": "সংযুক্ত আরব আমিরাত"
+      },
+      "city": {
+        "en": "Dubai, Abu Dhabi, Sharjah, Ajman & Al Ain",
+        "ar": "دبي وأبوظبي والشارقة وعجمان والعين",
+        "bn": "দুবাই"
+      },
+      "blurb": {
+        "en": "Where EVS started. Seven workshops across the Emirates covering high-voltage battery work, programming, mechanical, body and paint.",
+        "ar": "حيث بدأت إي في إس. سبع ورش في أنحاء الإمارات تغطي أعمال بطاريات الجهد العالي والبرمجة والميكانيكا والهيكل والصبغ."
+      }
+    },
+    {
+      "slug": "saudi",
+      "code": "sa",
+      "url": "https://evsksa.com",
+      "status": "open",
+      "name": {
+        "en": "Saudi Arabia",
+        "ar": "المملكة العربية السعودية",
+        "bn": "সৌদি আরব"
+      },
+      "city": {
+        "en": "Riyadh",
+        "ar": "الرياض",
+        "bn": "রিয়াদ"
+      },
+      "blurb": {
+        "en": "The largest aftermarket in the Gulf — just over half of all GCC vehicle service spend.",
+        "ar": "أكبر سوق لما بعد البيع في الخليج — أكثر من نصف إنفاق صيانة المركبات في دول المجلس."
+      }
+    },
+    {
+      "slug": "qatar",
+      "code": "qa",
+      "url": "https://evsqtr.com",
+      "status": "open",
+      "name": {
+        "en": "Qatar",
+        "ar": "قطر",
+        "bn": "কাতার"
+      },
+      "city": {
+        "en": "Doha",
+        "ar": "الدوحة",
+        "bn": "দোহা"
+      },
+      "blurb": {
+        "en": "Specialist EV service in Doha, including extended-range vehicles that need both high-voltage and engine capability.",
+        "ar": "صيانة متخصصة للسيارات الكهربائية في الدوحة، بما فيها السيارات ممتدة المدى التي تحتاج قدرة على الجهد العالي والمحركات معاً."
+      }
+    },
+    {
+      "slug": "oman",
+      "code": "om",
+      "url": "https://evsoman.com",
+      "status": "open",
+      "name": {
+        "en": "Oman",
+        "ar": "سلطنة عُمان",
+        "bn": "ওমান"
+      },
+      "city": {
+        "en": "Muscat",
+        "ar": "مسقط",
+        "bn": "মাস্কাট"
+      },
+      "blurb": {
+        "en": "Serving a fast-growing Omani EV parc — battery health, programming and bodywork.",
+        "ar": "نخدم أسطولاً عُمانياً متنامياً من السيارات الكهربائية — صحة البطارية والبرمجة والهيكل."
+      }
+    },
+    {
+      "slug": "bahrain",
+      "code": "bh",
+      "url": "https://evsbah.com",
+      "status": "soon",
+      "name": {
+        "en": "Bahrain",
+        "ar": "البحرين",
+        "bn": "বাহরাইন"
+      },
+      "city": {
+        "en": "Manama",
+        "ar": "المنامة",
+        "bn": "মানামা"
+      },
+      "blurb": {
+        "en": "Opening soon. The Bahrain centre is in preparation.",
+        "ar": "قريباً. مركز البحرين قيد التجهيز."
+      }
+    },
+    {
+      "slug": "iraq",
+      "code": "iq",
+      "url": "https://evsiraq.com",
+      "status": "soon",
+      "name": {
+        "en": "Iraq",
+        "ar": "العراق",
+        "bn": "ইরাক"
+      },
+      "city": {
+        "en": "Baghdad",
+        "ar": "بغداد",
+        "bn": "বাগদাদ"
+      },
+      "blurb": {
+        "en": "Opening soon. The Baghdad centre is in preparation.",
+        "bn": "শীঘ্রই খুলছে। বাগদাদ সেন্টার প্রস্তুতির পর্যায়ে।"
+      }
+    },
+    {
+      "slug": "bangladesh",
+      "code": "bd",
+      "url": null,
+      "status": "soon",
+      "name": {
+        "en": "Bangladesh",
+        "ar": "بنغلاديش",
+        "bn": "বাংলাদেশ"
+      },
+      "city": {
+        "en": "Dhaka",
+        "ar": "دكا",
+        "bn": "ঢাকা"
+      },
+      "blurb": {
+        "en": "Opening soon. The Dhaka centre is in preparation.",
+        "bn": "শীঘ্রই খুলছে। ঢাকা সেন্টার প্রস্তুতির পর্যায়ে।"
+      }
+    }
+  ],
+  "group": {
+    "url": "https://evsworldwide.com",
+    "name": {
+      "en": "EVS Worldwide",
+      "ar": "إي في إس العالمية",
+      "bn": "ইভিএস ওয়ার্ল্ডওয়াইড"
+    },
+    "blurb": {
+      "en": "The group site — market intelligence on EV aftersales in 180+ countries, and franchise enquiries.",
+      "ar": "موقع المجموعة — تحليلات سوق خدمات ما بعد البيع للسيارات الكهربائية في أكثر من 180 دولة، واستفسارات الامتياز.",
+      "bn": "গ্রুপ সাইট — ১৮০+ দেশে ইভি আফটারসেলস মার্কেট ইন্টেলিজেন্স, এবং ফ্র্যাঞ্চাইজ অনুসন্ধান।"
+    }
+  }
+}
