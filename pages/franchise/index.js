@@ -13,7 +13,7 @@ export default function FranchiseRoute({ locale, branch, cities }) {
         cities={cities}
         path="franchise"
         title="EV Workshop Franchise in Bangladesh | EVS Franchise"
-        description="Run a specialist EV workshop in Bangladesh. An open territory: a parc about to multiply after the EV tax cuts, almost no public charging, and no independent high-voltage capability in the country."
+        description="Run a specialist EV workshop in Bangladesh. An open territory: a parc about to multiply after the EV tax cuts, almost no public charging, and almost no independent high-voltage capability in the country."
         jsonLd={franchiseJsonLd(locale)}
       />
       <FranchisePitch locale={locale} />

@@ -279,7 +279,7 @@ export default function LaunchContact({ locale = "en" }) {
 
           <div className="mt-10 flex flex-wrap gap-4">
             <a href={localePath(locale, "ev-car-brands")} className="evs-btn evs-btn-secondary">
-              {base === "bn" ? "যে ব্র্যান্ডগুলোর সেবা দেব" : "Brands we service"}
+              {base === "bn" ? "যে ব্র্যান্ডগুলোর সেবা দেব" : "Brands we will cover"}
             </a>
             <a href={localePath(locale, "franchise")} className="evs-btn evs-btn-secondary">
               {base === "bn" ? "বাংলাদেশে ফ্র্যাঞ্চাইজ" : "Franchise in Bangladesh"}

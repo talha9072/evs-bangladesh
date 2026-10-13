@@ -50,7 +50,7 @@ const COPY = {
        defensible version is what the centre is built for, which is also the
        more useful sentence. */
     introBody: "EVS centres cover electric vehicles from routine maintenance to specialist repair, and are built for high-voltage battery work that very few independent workshops are equipped for. The programming side — software updates and region coding, particularly on imported cars — is part of the same job.",
-    listHeading: "We combine expert knowledge with state-of-the-art facilities to consistently deliver top-quality results.",
+    listHeading: "Specialist knowledge and EV-only tooling, brought to one workshop.",
     closing: "Leading the global transition to sustainable electric mobility",
     taglines: [
       "Embrace the electric revolution.",

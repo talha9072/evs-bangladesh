@@ -34,13 +34,27 @@ export default function CategoryHead({ locale, category, branch, cities = [] }) 
       "@type": "Place",
       name: `${place}, ${countryName}`,
     })),
-    // the services actually offered under this category, straight from the
-    // rows that render the list block - and using the same label the list
-    // shows, so the structured data matches the visible page
-    makesOffer: (category.children || []).map((child) => ({
-      "@type": "Offer",
-      itemOffered: { "@type": "Service", name: child.list_title || child.name },
-    })),
+    /*
+     * NO makesOffer WHILE THE CENTRE IS CLOSED.
+     *
+     * schema.org/Offer is a machine-readable statement that the service is on
+     * sale NOW. A crawl found 68 of them across the five category pages and
+     * their translations, on a site whose every page carries a banner saying it
+     * has not opened. The visible list is unaffected - this only removes the
+     * claim that the list is purchasable today.
+     *
+     * hasOfferCatalog would be the honest alternative and it is deliberately
+     * NOT used either: it still describes a catalogue on offer. Put makesOffer
+     * back on the day the doors open.
+     */
+    ...(branch.coming_soon
+      ? {}
+      : {
+          makesOffer: (category.children || []).map((child) => ({
+            "@type": "Offer",
+            itemOffered: { "@type": "Service", name: child.list_title || child.name },
+          })),
+        }),
     // same helper the canonical uses, so the two can never disagree about
     // whether this locale carries a URL prefix
     url: url(category.path),

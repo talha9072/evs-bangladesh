@@ -111,7 +111,7 @@ export default function SiteFooter({ locale = DEFAULT_LOCALE }) {
   const quickLinks = liveLinks([
     { href: `${p}/about`, label: t.about },
     { href: `${p}/services`, label: t.services },
-    { href: `${p}/our-network`, label: locale.startsWith("ar") ? "شبكة إي في إس" : "The EVS network" },
+    { href: `${p}/our-network`, label: locale.startsWith("bn") ? "ইভিএস নেটওয়ার্ক" : "The EVS network" },
     { href: `${p}/extended-warranties`, label: t.warranty },
     ...(hasSos() ? [{ href: `${p}/sos`, label: t.sos }] : []),
     { href: `${p}/blog`, label: t.blog },
@@ -228,7 +228,7 @@ export default function SiteFooter({ locale = DEFAULT_LOCALE }) {
               <div className="flex flex-col gap-2 text-sm text-content-muted">
                 <span>{locale.startsWith("bn") ? "বাংলাদেশ — শীঘ্রই খুলছে" : "Bangladesh — opening soon"}</span>
                 <FooterLink href={`${p}/contact`}>
-                  {locale.startsWith("ar") ? "أبلغني عند الافتتاح" : "Get told when we open"}
+                  {locale.startsWith("bn") ? "খুললে আমাকে জানান" : "Get told when we open"}
                 </FooterLink>
               </div>
             )}
@@ -258,7 +258,7 @@ export default function SiteFooter({ locale = DEFAULT_LOCALE }) {
               <Clock className="mt-1 h-4 w-4 flex-none text-brand-500" />
               {!footer.hours.day ? (
                 <span className="text-sm text-content-muted">
-                  {locale.startsWith("ar") ? "تُعلن عند الافتتاح" : "Announced at opening"}
+                  {locale.startsWith("bn") ? "খোলার সময় জানানো হবে" : "Announced at opening"}
                 </span>
               ) : (
               <OpeningHours

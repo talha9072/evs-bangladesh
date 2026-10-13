@@ -47,7 +47,7 @@ const FAQ_HEADING = {
  * tak sirf ek raasta jata ho use Google kam ahem samajhta hai.
  */
 const SIBLINGS_HEADING = {
-  en: "Other EV brands we service",
+  en: "Other EV brands the centre will cover",
   ar: "علامات كهربائية أخرى نخدمها",
   bn: "আমরা যেসব ইভি ব্র্যান্ড সার্ভিস করি",
 };

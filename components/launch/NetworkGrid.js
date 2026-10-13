@@ -22,7 +22,7 @@ const COPY = {
     eyebrow: "The EVS network",
     heading: "Where EVS operates.",
     intro:
-      "EVS runs specialist electric-vehicle workshops across the Gulf, with Bahrain and Iraq opening soon. Bangladesh is next. Each country has its own site, its own workshops and its own team.",
+      "EVS runs specialist electric-vehicle workshops across the Gulf, with Bahrain, Iraq and Bangladesh opening soon — Bangladesh is the one you are reading. Each country has its own site, its own workshops and its own team.",
     open: "Visit site",
     status: { open: "Open", coming_soon: "Opening soon", planned: "Planned" },
     groupHeading: "The group",

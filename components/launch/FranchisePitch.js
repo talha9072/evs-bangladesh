@@ -22,12 +22,12 @@ const COPY = {
     eyebrow: "Franchise",
     heading: "Run an EVS centre in Bangladesh.",
     intro:
-      "EVS franchises specialist electric-vehicle workshops. Bangladesh is an open territory, and its timing is the unusual part: the parc is tiny today and the 2026-27 budget is about to multiply it, so a workshop that opens now is ready before the cars arrive rather than after.",
+      "EVS franchises specialist electric-vehicle workshops. Bangladesh is an open territory, and its timing is the unusual part: the parc is tiny today and the FY2026-27 tax changes have just removed the main reason it was, so a workshop that opens now is ready before the cars arrive rather than after.",
     whyHeading: "Why Bangladesh, specifically",
     why: [
       {
         title: "You arrive before the cars do",
-        body: "The BRTA counted 669 registered electric vehicles in May 2026. That is the whole market today — and the 2026-27 budget cuts import tax on electric and plug-in hybrid cars while pushing it up on petrol and diesel. Every other EVS territory opened into demand that already existed; this one opens just ahead of it.",
+        body: "The BRTA counted 669 registered electric vehicles in May 2026. That is the whole market today — and the FY2026-27 budget, in force since July 2026, cut import tax on electric and plug-in hybrid cars while pushing it up on petrol and diesel. Every other EVS territory opened into demand that already existed; this one opens just ahead of it.",
       },
       {
         title: "Charging is the bottleneck, and that is the opportunity",
